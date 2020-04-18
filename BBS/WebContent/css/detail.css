@@ -1,0 +1,23 @@
+.title_name{font-size: 48px; margin: 60px 0; text-align: center;}
+.title2_name{font-size: 36px; margin: 30px 0;text-align: center;}
+.devel{margin: 10px; text-align: left; text-align: center;}
+.leader{margin-left: 50px;}
+.difference{font-size: 20px;margin: 40px 0;text-align: center;}
+.difference_desc{margin-left: 20px;}
+.space{background-color: #ddd; height: 1px; margin: 20px 0;}
+.left_desc{
+    margin: 100px 0;
+}
+.right_desc{
+    margin: 100px 0; border-left: 1px solid #ddd;
+}
+.need_device{
+    border-right: 1px solid #ddd;
+}
+
+.price{
+    border-right: 1px solid #ddd;
+}
+.bot_desc{margin-bottom: 100px;}
+.bot_desc li{padding: 10px;}
+.left_desc h3, .right_desc h3{font-size: 20px;}
